@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Amardeep7067
+- 👋 Hi, I’m Amardeep Bairagi.
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning java, python, c++.
+- 🌱 I’m currently learning java, HTML, CSS, JavaScript.
 - 💞️ I’m looking to collaborate on coding problem.
 - 📫 How to reach me - you can follow me on Instagram (@amarvaishnav4).
 
