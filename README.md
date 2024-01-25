@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Amardeep Bairagi.
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning java, HTML, CSS, JavaScript.
-- 💞️ I’m looking to collaborate on coding problem.
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning Java, Python, DSA, MySQL, Oops.
 - 📫 How to reach me - you can follow me on Instagram (@amarvaishnav4).
 
 <!---
